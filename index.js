@@ -67,7 +67,7 @@ slack.setWebhook(webhookUrl);
 
 // set good interval, not too short!!
 // in ms
-let waitInterval = 5000;//600000;
+let waitInterval = 600000;
 
 var intetvalID = setInterval(function() {
 
